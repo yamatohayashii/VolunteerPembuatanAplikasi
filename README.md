@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Razors Out, [oo.or.id](https://oo.or.id).
+* Yamato Hayashii, [Linkedin](https://www.linkedin.com/in/yamato-hayashii/).
